@@ -21,9 +21,9 @@ The game keeps track of your wins and the computer's wins. Who will dominate the
 
 🛠️ Features
 
-User-friendly inputs: Just type your choice and press enter.
-Randomized computer moves for a fair challenge. 🤖
-Win/loss counter to track your progress.
+1. User-friendly inputs: Just type your choice and press enter.
+2. Randomized computer moves for a fair challenge. 🤖
+3. Win/loss counter to track your progress.
 
 
 
@@ -36,5 +36,5 @@ rock_paper_scissors.py: The Python script for the game.
 
 
 📌 Requirements
-Python 3.x
-No additional libraries needed—this project runs on the Python standard library.
+1. Python 3.x
+2. No additional libraries needed—this project runs on the Python standard library.
